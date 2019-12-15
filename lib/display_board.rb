@@ -1,4 +1,4 @@
-board = [" X "," O "," X "," O "," X "," O "," X "," O "," X "]
+board = ["  ", "  ", "  ", " O "," X "," O "," X "," O "," X "]
 def display_board(board)
   puts board[0, 1, 2]
   puts board[3, 4, 5]
